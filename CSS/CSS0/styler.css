@@ -1,0 +1,32 @@
+
+/* tag/element selector */
+/* h1{
+    background-color: bisque;
+}
+
+ul{
+    background-color:aliceblue ;
+} */
+
+
+
+ /*on the basis of ids=and ids are unique  */
+ /* #first{
+background-color: red;
+ } */
+
+
+  /* on the basis of class */
+  /* .third{
+    background-color: khaki;
+  } */
+
+  /* on the basis of group */
+  /* h1,h2, .third{
+    background-color:aqua ;
+  } */
+
+  /*Font  */
+  h1{
+    font-size: 100px;
+  }
