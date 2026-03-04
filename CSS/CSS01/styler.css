@@ -1,0 +1,25 @@
+/* span{
+    color: rgb(87, 133, 180);
+} */
+
+
+ /*Universal Selector  */
+ /* *{
+    margin: 0px;
+    padding: 0px;
+ } */
+ h1{
+    background-color: aqua;
+    /* display: inline; */
+ }
+ h2{
+    background-color: brown;
+    /* display: inline; */
+ }
+ span{
+    color: pink;
+
+    height: 300px;
+    /* width: 250px; height and width can not apply on span tag. */
+    /* display: block; */
+ }
