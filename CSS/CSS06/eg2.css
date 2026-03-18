@@ -1,0 +1,16 @@
+.container{
+    height: 200px;
+    width: 200px;
+    /* background-color: orange; */
+    /* box-shadow: 10px 10px navajowhite; */
+    /* box-shadow:20px 20px 10px  burlywood ; */
+    /* box-shadow:0px 0px 10px 30px blueviolet ; */
+   /* box-shadow: inset 10px 10px blueviolet ; */
+   /* background-color: yellow;
+   border-radius: 50%;
+   box-shadow: 0px 0px 10px 20px rgb(245, 42, 42); */
+   background-color: aqua;
+   overflow: scroll;
+}
+
+/* offset-x, offset-y, blur radius, spread radius */
