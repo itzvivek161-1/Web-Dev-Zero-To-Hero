@@ -19,7 +19,7 @@
 
 // console.log(x);
 
-//Comparision Operator
+// Comparision Operator
 // let x=20;
 // let y=30;
 // console.log(x>y);
@@ -57,7 +57,7 @@
 
 // console.log(c);
 
-//1.null is loosely equal  to  indefined only
+//1.null is loosely equal  to  undefined only
 
 // console.log(null == undefined);
 // console.log(null === undefined);
@@ -86,14 +86,14 @@
 
 //For Loop
 
-//post increment
-//post decrement:i--
+// post increment
+// post decrement:i--
 // for(let i=0;i<10;i++){
 //     console.log(i);
 
 // }
 
-//while loop
+// while loop
 // let i=0;
 // while(i<10){
 //     console.log(i);
