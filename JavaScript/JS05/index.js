@@ -20,7 +20,7 @@
 //     name:"Vivek"
 // }
 
-// let obj2=obj1;
+// obj2=obj1;
 
 // let obj2={
 //     name:"Vivek"
@@ -53,6 +53,8 @@
 // console.log(Math.floor(Math.random()*10)+1);
 // console.log(Math.floor(Math.random()*6)+1); 
 
+
+//General Formula
 //Math.floor(Math.random()*totalNumberofOutcome)+shift
 
 //15-25
@@ -65,7 +67,7 @@
 
 // console.log(Math.floor(Math.random()*(8999+1))+1000);
 
-function random(){
-    Math.random()*10;
-}
+// function random(){
+//     Math.random()*10;
+// }
 
